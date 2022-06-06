@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(rgb(207, 6, 6), rgb(240, 216, 0));
+    background-color: rgb(110, 2, 47);
     font: icon;
 }
 a{
@@ -10,22 +10,13 @@ footer{
     text-align: center;
 }
 fieldset{
-    margin-left: 4%;
-    margin-right: 5%;
+    margin-top: 12%;
+    background-color: whitesmoke;
     align-content: center;
     border-style: dashed;
 }
-
 h1 {
     color: white; text-shadow: black 0.1em 0.1em 0.2em;
     font-style:oblique;
-}
-
-.p {
-    box-shadow: 0 0 1em rgb(245, 245, 245);
-}
-.rodape {
-    margin-top: 18%;
     text-align: center;
-    border-style: none;
 }
