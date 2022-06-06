@@ -9,3 +9,7 @@ a{
 footer{
     text-align: center;
 }
+fieldset{
+    align-content: center;
+    border-style: dashed;
+}
