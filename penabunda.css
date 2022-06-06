@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(119, 117, 109);
+    font: icon;
+}
+a{
+    color: black;
+    
+}
+footer{
+    text-align: center;
+}
+fieldset{
+    margin-top: 15%;
+    background-color: whitesmoke;
+    align-content: center;
+    border-style: dashed;
+}
