@@ -10,8 +10,16 @@ footer{
     text-align: center;
 }
 fieldset{
-    margin-top: 15%;
+    margin-top: 12%;
     background-color: whitesmoke;
     align-content: center;
     border-style: dashed;
+}
+h1 {
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-style:oblique;
+    text-align: center;
+}
+p {
+    margin-top: 25%;
 }
