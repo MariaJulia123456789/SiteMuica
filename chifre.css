@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(192, 14, 14);
+    background-color: rgb(82, 6, 6);
     font: icon;
 }
 a{
@@ -8,4 +8,10 @@ a{
 }
 footer{
     text-align: center;
+}
+fieldset{
+    margin-top: 15%;
+    background-color: whitesmoke;
+    align-content: center;
+    border-style: dashed;
 }
